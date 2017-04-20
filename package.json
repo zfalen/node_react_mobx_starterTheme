@@ -1,0 +1,27 @@
+{
+  "name": "fullstack_mobx_starter",
+  "version": "0.1.0",
+  "description": "Full-stack starter pack for MobX / React / Node. Works out-of-the-box with client-side routing via Director, MongoDB storage, file uploads, and Express API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfalen/node_react_mobx_starterTheme.git"
+  },
+  "keywords": [
+    "mobx",
+    "node",
+    "react",
+    "director",
+    "mongo",
+    "express"
+  ],
+  "author": "Zachary M. Falen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zfalen/node_react_mobx_starterTheme/issues"
+  },
+  "homepage": "https://github.com/zfalen/node_react_mobx_starterTheme#readme"
+}
